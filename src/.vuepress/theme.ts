@@ -67,6 +67,10 @@ export default hopeTheme({
         hint: "与马芳老师通话日期",
         password: "0408",
       },
+            "/clinical/cases/Death-discussion.html": {
+        hint: "PBL组号",
+        password: "A202",
+      },
     },
   },
   plugins: {
